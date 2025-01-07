@@ -23,8 +23,8 @@ const projects = [
     img: "/imgs/projects/ExpenseXpert.png",
     desc: "A web app where you can add, view, edit, delete and track your expenses.",
     technologies: ["React JS", "Firebase"],
-    github: "https://github.com/ashish12501/ExpensXpert",
-    live: "https://expensxpert.web.app/",
+    github: "https://github.com/Aparna873/ExpenseXpert",
+    live: "https://expense-xpert-8d867h8s1-aparna-shuklas-projects.vercel.app/",
   },
   {
     id: 3,
